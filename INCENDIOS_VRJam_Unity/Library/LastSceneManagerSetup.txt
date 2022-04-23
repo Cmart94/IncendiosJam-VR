@@ -1,0 +1,9 @@
+sceneSetups:
+- path: Assets/_Main/_CristianTest/I_Scene_CristianTest.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/Incendio.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
